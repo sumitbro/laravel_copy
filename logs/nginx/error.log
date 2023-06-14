@@ -1,0 +1,12 @@
+2023/05/20 05:56:33 [warn] 1#1: conflicting server name "_" on 0.0.0.0:80, ignored
+2023/05/20 05:56:33 [warn] 1#1: conflicting server name "_" on [::]:80, ignored
+2023/05/20 06:08:48 [warn] 1#1: conflicting server name "_" on 0.0.0.0:80, ignored
+2023/05/20 06:08:48 [warn] 1#1: conflicting server name "_" on [::]:80, ignored
+2023/05/20 06:16:04 [warn] 1#1: conflicting server name "_" on 0.0.0.0:80, ignored
+2023/05/20 06:16:04 [warn] 1#1: conflicting server name "_" on [::]:80, ignored
+2023/06/13 09:24:46 [warn] 1#1: conflicting server name "_" on 0.0.0.0:80, ignored
+2023/06/13 09:24:46 [warn] 1#1: conflicting server name "_" on [::]:80, ignored
+2023/06/13 10:40:52 [warn] 1#1: conflicting server name "_" on 0.0.0.0:80, ignored
+2023/06/13 10:40:52 [warn] 1#1: conflicting server name "_" on [::]:80, ignored
+2023/06/14 02:40:11 [warn] 1#1: conflicting server name "_" on 0.0.0.0:80, ignored
+2023/06/14 02:40:11 [warn] 1#1: conflicting server name "_" on [::]:80, ignored
